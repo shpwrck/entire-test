@@ -1,0 +1,13 @@
+can you create another readme that is a short form of the entireio/cli readme?
+
+---
+
+Let's review this for any secrets, and if it is safe, push it.
+
+---
+
+Let's try one more Readme, but this time explain something generic like yaml formatting.
+
+---
+
+yes, review and push it
